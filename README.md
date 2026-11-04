@@ -1,4 +1,4 @@
-# R for Android™
+# R for Android
 
 Run R locally on an Android™ phone or tablet.
 
