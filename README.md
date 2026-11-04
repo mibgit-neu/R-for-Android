@@ -35,7 +35,7 @@ The complete application source is inside the community-release ZIP. Extract it,
 - Show console output, tables and plots.
 - Offer editor themes, font settings, bracket helpers and lightweight completion.
 - Run diagnostic, performance and stress checks when requested.
-- Provide offline guides in English, Brazilian Portuguese, Spanish and Chinese. English is the default.
+- There are offline guides in the material in English, Brazilian Portuguese, Spanish and Chinese. English is the default language of the app.
 
 The QMD tools execute R chunks; they are **not a full Quarto rendering engine**. Completion is lightweight and is not the RStudio completion system.
 
