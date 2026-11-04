@@ -26,7 +26,7 @@ Download the APK and accompanying source and notices from this repository's **Re
 
 The app was previously named **R Tablet**. The new display name does not change its package ID (`org.rtablet.local`) or storage format. Android also requires matching signing keys for an update. 
 
-The complete application source is inside the community-release ZIP. Extract it, then extract RforAndroid-0.7.2-source.zip. 
+The complete application source is inside the community-release ZIP. Extract it, then extract RforAndroid-0.7.2-source.zip. GitHub’s automatically generated “Source code” downloads contain only this repository’s documents.
 
 ## What it can do
 
