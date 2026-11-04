@@ -1,6 +1,6 @@
-# R for Android
+# R for Android™
 
-Run R locally on an Android phone or tablet.
+Run R locally on an Android™ phone or tablet.
 
 R for Android is a free, open-source app for writing scripts, running analyses and viewing results. It is designed to be simple to install and use, including for people coming from desktop RStudio or learning R. R runs on your device through [webR](https://github.com/r-wasm/webr). A remote server or R account is not required.
 
@@ -92,3 +92,5 @@ Original application source is licensed under **GNU GPL version 3 or later**, wi
 R provides the statistical language. webR provides R compiled to WebAssembly and its browser/runtime interface. Android and the system WebView provide the platform. The native app interface, editing/file workflows, runtime integration and user materials form this project. No RStudio source was identified in the reviewed project; familiar editor features do not imply that RStudio was ported.
 
 Keep the matching source and notices accessible with a binary release. An open-source license and a limited engineering review are not guarantees of security, device compatibility or scientific correctness. This experimental release is not certified for clinical use.
+
+Android is a trademark of Google LLC
